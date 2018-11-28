@@ -4,8 +4,6 @@ y tal ve otra, por que no!?
 este cambio ya va para github! 
 cualquiera lo podrá ver D:
 todo bien! 
-
 estos cambios los hice desde mi casa
-todo bien
 clone el proyecto :D
-
+elimine unas lineas
