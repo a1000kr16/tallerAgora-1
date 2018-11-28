@@ -1,0 +1,4 @@
+nombre:        carlos alberto lopez de santa anna apodaca 
+correo:        carlos.lopez.25.08@hotmail.com
+universidad:   tecnologico de los mochis
+semestre:      1 semestre
