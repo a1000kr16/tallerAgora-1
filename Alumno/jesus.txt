@@ -1,0 +1,4 @@
+Nombre;      Jesus Romero Armenta
+Correo:      jesusromeroarmenta@outlook.com
+Universidad: Tecnologico de los Mochis
+Semestre:    1 Semestre
